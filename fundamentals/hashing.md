@@ -29,8 +29,25 @@ mp.empty();
 
 ### Iteration
 ```cpp
+// 1. Range-based for (most common)
 for (auto& [key, val] : mp)
-    cout << key << " → " << val;
+    cout << key << " → " << val << "\n";
+
+// 2. Using 'pair' (older style)
+for (auto& p : mp)
+    cout << p.first << " → " << p.second << "\n";
+
+// 3. Iterator
+for (auto it = mp.begin(); it != mp.end(); it++)
+    cout << it->first << " → " << it->second << "\n";
+
+// 4. Keys only
+for (auto& [key, val] : mp)
+    cout << key << "\n";
+
+// 5. Values only
+for (auto& [key, val] : mp)
+    cout << val << "\n";
 ```
 
 ### Common Patterns
