@@ -1,4 +1,5 @@
 # Revision List
  
-| Problem | Topic | Why Revise? | Next Revision Date |
-|---|---|---|---|
+| Problem | Topic | Why Revise? | 
+|---|---|---|
+| Two Sum | Arrays/Hashinh | Asked in many interviews/other versions | 
