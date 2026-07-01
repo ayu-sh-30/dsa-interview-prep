@@ -8,3 +8,4 @@
 | 28-06-26 | Group Anagram | Arrays / Hashing | Medium | Not Solved | Yes | Thought in right direction but couldn't solve(same like valid anagram) |
 | 29-06-26 | Top K Frequent Elements | Arrays / Hashing | Medium | Solved | Yes | Can be solved with (bucket sort and min-heap) |
 |30-06-26 | Product of Array Except Self | Arrays / Hashing | Medium | Solved | Yes | Only Brute Force |
+|01-07-26 | Valid Sudoku | Arrays / Hashing | Medium | Solved | Yes | Only Brute Force, Could not code |
